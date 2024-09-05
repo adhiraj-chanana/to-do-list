@@ -14,3 +14,14 @@ The To-Do List App is a simple web application that allows users to manage their
 
 - **HTML**: For the structure of the application.
 - **CSS**: For styling the application.
+- **JavaScript**: For adding functionality to the app (e.g., adding tasks to the list).
+
+## Usage 
+Add a Task:
+
+Enter a task in the input field.
+Click the "Add" button to add the task to the list.
+
+View Tasks:
+
+The added tasks will appear in a list format below the input field.
